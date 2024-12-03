@@ -1,7 +1,3 @@
-//Name: Juliana Serrano, Jasia Ernest, Thuong Nguyen
-//Date: 09/30/2024
-//Class: CS &145
-//Assignment: Lab 1 - Guessing Game
 /* Purpose:  This program allows the user to play a simple guessing game. 
 This program is supposed to choose a random number between 1 and a desired number. 
 It should let the user guess, giving clues if the number is larger or smaller. */
